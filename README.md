@@ -38,6 +38,7 @@ and has a 3-tier architecture: controllers, Service, DAO.
 - create a project fork in your repository
 - clone the project locally
 - create a separate branch
+- replace stubs with real values in ConnectionUtil file
 - configure Tomcat
 - create the appropriate tables in the database (use the file 'init_db.sql' from the package 'resources')
 - start a project
